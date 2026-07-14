@@ -1,0 +1,97 @@
+- generic [ref=f3e3]:
+  - banner [ref=f3e4]:
+    - generic [ref=f3e5]:
+      - generic [ref=f3e6]: 
+      - heading "AlphaBlocks Workbench 2026" [level=1] [ref=f3e7]
+    - generic [ref=f3e8]:
+      - generic [ref=f3e9]:
+        - generic [ref=f3e10]: Universe
+        - combobox "USA_S&P500" [ref=f3e12] [cursor=pointer]
+      - generic [ref=f3e16]:
+        - generic [ref=f3e17]: Delay
+        - spinbutton [ref=f3e19]: "1"
+      - generic [ref=f3e21]:
+        - generic [ref=f3e22]: Theme
+        - button " " [ref=f3e23] [cursor=pointer]:
+          - generic [ref=f3e24]: 
+          - generic [ref=f3e26]: 
+  - generic [ref=f3e27]:
+    - complementary [ref=f3e28]:
+      - generic [ref=f3e29]:
+        - heading "Block Library" [level=2] [ref=f3e30]
+        - combobox "All" [ref=f3e32] [cursor=pointer]
+      - generic [ref=f3e36]:
+        - generic [ref=f3e37]:
+          - generic [ref=f3e38]: Historic undervalue
+          - generic [ref=f3e39]: Custom
+        - generic [ref=f3e40]:
+          - generic [ref=f3e41]: Time-Series Mean
+          - generic [ref=f3e42]: Math
+        - generic [ref=f3e43]:
+          - generic [ref=f3e44]: Delta Difference
+          - generic [ref=f3e45]: Math
+      - generic [ref=f3e46]:
+        - heading "Data Fields" [level=3] [ref=f3e47]
+        - generic [ref=f3e48]:
+          - generic [ref=f3e49]: 
+          - generic [ref=f3e50]: cap
+        - generic [ref=f3e51]:
+          - generic [ref=f3e52]: 
+          - generic [ref=f3e53]: interest_expense
+        - generic [ref=f3e54]:
+          - generic [ref=f3e55]: 
+          - generic [ref=f3e56]: fnd6_epspx
+        - generic [ref=f3e57]:
+          - generic [ref=f3e58]: 
+          - generic [ref=f3e59]: volume
+        - generic [ref=f3e60]:
+          - generic [ref=f3e61]: 
+          - generic [ref=f3e62]: returns
+        - generic [ref=f3e63]:
+          - generic [ref=f3e64]: 
+          - generic [ref=f3e65]: revenue
+    - main [ref=f3e66]:
+      - generic [ref=f3e67]:
+        - generic [ref=f3e68]:
+          - generic [ref=f3e69]:
+            - generic:
+              - generic:
+                - group [ref=f3e70]:
+                  - generic [ref=f3e72]:
+                    - generic [ref=f3e73]: 
+                    - generic [ref=f3e74]: ALPHA
+                - group [ref=f3e87]:
+                  - generic [ref=f3e89]:
+                    - generic [ref=f3e90]:
+                      - generic [ref=f3e91]: Historic undervalue
+                      - button "" [active] [ref=f3e92] [cursor=pointer]
+                    - generic [ref=f3e94]:
+                      - generic [ref=f3e95]:
+                        - generic [ref=f3e96]: backfill period
+                        - generic [ref=f3e97]: "10"
+                      - generic [ref=f3e98]:
+                        - generic [ref=f3e99]: shape
+                        - generic [ref=f3e100]: rank
+                      - generic [ref=f3e101]:
+                        - generic [ref=f3e102]: lookback period
+                        - generic [ref=f3e103]: "20"
+                - group [ref=f3e109]:
+                  - generic [ref=f3e111]:
+                    - generic [ref=f3e112]: 
+                    - generic [ref=f3e113]: volume
+                    - button "" [ref=f3e114] [cursor=pointer]
+          - generic [ref=f3e119]:
+            - generic [ref=f3e120]:
+              - generic [ref=f3e121]: backfill period
+              - spinbutton [ref=f3e123]: "10"
+            - generic [ref=f3e124]:
+              - generic [ref=f3e125]: shape
+              - combobox "rank" [ref=f3e127] [cursor=pointer]
+            - generic [ref=f3e131]:
+              - generic [ref=f3e132]: lookback period
+              - spinbutton [ref=f3e134]: "20"
+            - button "" [ref=f3e135] [cursor=pointer]
+        - img "Vue Flow mini map" [ref=f3e79]
+  - contentinfo [ref=f3e83]:
+    - button "Compile Alpha" [ref=f3e84] [cursor=pointer]:
+      - generic [ref=f3e85]: 

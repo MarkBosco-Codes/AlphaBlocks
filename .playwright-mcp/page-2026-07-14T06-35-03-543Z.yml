@@ -1,0 +1,60 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]: 
+      - heading "AlphaBlocks Workbench 2026" [level=1] [ref=e7]
+    - generic [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e10]: Universe
+        - combobox "USA_S&P500" [ref=e12] [cursor=pointer]
+      - generic [ref=e16]:
+        - generic [ref=e17]: Delay
+        - spinbutton [ref=e19]: "1"
+      - generic [ref=e20]:
+        - generic [ref=e21]: Dark
+        - switch [ref=e23] [cursor=pointer]
+  - generic [ref=e26]:
+    - complementary [ref=e27]:
+      - generic [ref=e28]:
+        - heading "Block Library" [level=2] [ref=e29]
+        - combobox "All" [ref=e31] [cursor=pointer]
+      - generic [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]: Historic undervalue
+          - generic [ref=e38]: Custom
+        - generic [ref=e39]:
+          - generic [ref=e40]: Time-Series Mean
+          - generic [ref=e41]: Math
+        - generic [ref=e42]:
+          - generic [ref=e43]: Delta Difference
+          - generic [ref=e44]: Math
+      - generic [ref=e45]:
+        - heading "Data Fields" [level=3] [ref=e46]
+        - generic [ref=e47]:
+          - generic [ref=e48]: 
+          - generic [ref=e49]: cap
+        - generic [ref=e50]:
+          - generic [ref=e51]: 
+          - generic [ref=e52]: interest_expense
+        - generic [ref=e53]:
+          - generic [ref=e54]: 
+          - generic [ref=e55]: fnd6_epspx
+        - generic [ref=e56]:
+          - generic [ref=e57]: 
+          - generic [ref=e58]: volume
+        - generic [ref=e59]:
+          - generic [ref=e60]: 
+          - generic [ref=e61]: returns
+        - generic [ref=e62]:
+          - generic [ref=e63]: 
+          - generic [ref=e64]: revenue
+    - main [ref=e65]:
+      - generic [ref=e66]:
+        - group [ref=e69]:
+          - generic [ref=e71]:
+            - generic [ref=e72]: 
+            - generic [ref=e73]: ALPHA
+        - img "Vue Flow mini map" [ref=e78]
+  - contentinfo [ref=e82]:
+    - button "Compile Alpha" [ref=e83] [cursor=pointer]:
+      - generic [ref=e84]: 

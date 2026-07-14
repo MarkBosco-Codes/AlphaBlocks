@@ -1,0 +1,62 @@
+- generic [ref=f7e3]:
+  - banner [ref=f7e4]:
+    - generic [ref=f7e5]:
+      - generic [ref=f7e6]: 
+      - heading "AlphaBlocks Workbench 2026" [level=1] [ref=f7e7]
+    - generic [ref=f7e8]:
+      - generic [ref=f7e9]:
+        - generic [ref=f7e10]: Universe
+        - combobox "USA_S&P500" [ref=f7e12] [cursor=pointer]
+      - generic [ref=f7e16]:
+        - generic [ref=f7e17]: Delay
+        - spinbutton [ref=f7e19]: "1"
+      - generic [ref=f7e21]:
+        - generic [ref=f7e22]: Theme
+        - button " " [ref=f7e23] [cursor=pointer]:
+          - generic [ref=f7e24]: 
+          - generic [ref=f7e26]: 
+  - generic [ref=f7e27]:
+    - complementary [ref=f7e28]:
+      - generic [ref=f7e29]:
+        - heading "Block Library" [level=2] [ref=f7e30]
+        - combobox "All" [ref=f7e32] [cursor=pointer]
+      - generic [ref=f7e36]:
+        - generic [ref=f7e37]:
+          - generic [ref=f7e38]: Historic undervalue
+          - generic [ref=f7e39]: Custom
+        - generic [ref=f7e40]:
+          - generic [ref=f7e41]: Time-Series Mean
+          - generic [ref=f7e42]: Math
+        - generic [ref=f7e43]:
+          - generic [ref=f7e44]: Delta Difference
+          - generic [ref=f7e45]: Math
+      - generic [ref=f7e46]:
+        - heading "Data Fields" [level=3] [ref=f7e47]
+        - generic [ref=f7e48]:
+          - generic [ref=f7e49]: 
+          - generic [ref=f7e50]: cap
+        - generic [ref=f7e51]:
+          - generic [ref=f7e52]: 
+          - generic [ref=f7e53]: interest_expense
+        - generic [ref=f7e54]:
+          - generic [ref=f7e55]: 
+          - generic [ref=f7e56]: fnd6_epspx
+        - generic [ref=f7e57]:
+          - generic [ref=f7e58]: 
+          - generic [ref=f7e59]: volume
+        - generic [ref=f7e60]:
+          - generic [ref=f7e61]: 
+          - generic [ref=f7e62]: returns
+        - generic [ref=f7e63]:
+          - generic [ref=f7e64]: 
+          - generic [ref=f7e65]: revenue
+    - main [ref=f7e66]:
+      - generic [ref=f7e67]:
+        - group [ref=f7e70]:
+          - generic [ref=f7e72]:
+            - generic [ref=f7e73]: 
+            - generic [ref=f7e74]: ALPHA
+        - img "Vue Flow mini map" [ref=f7e79]
+  - contentinfo [ref=f7e83]:
+    - button "Compile Alpha" [ref=f7e84] [cursor=pointer]:
+      - generic [ref=f7e85]: 
